@@ -22,6 +22,7 @@ public class TS6 {
 
     @Test
     public void test_case_6_test(){
+        //test comment
         VytrackFunctionality locator = new VytrackFunctionality();
 
         //get x,y coordinates of grid settings button
